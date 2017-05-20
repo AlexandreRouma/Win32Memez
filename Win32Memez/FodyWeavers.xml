@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Weavers>
+  <Costura>
+    <IncludeAssemblies>
+      AxInterop.WMPLib
+      Interop.WMPLib
+      AudioSwitcher.AudioApi.CoreAudio
+      AudioSwitcher.AudioApi
+    </IncludeAssemblies>
+  </Costura>
+</Weavers>

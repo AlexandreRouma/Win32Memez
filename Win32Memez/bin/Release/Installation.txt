@@ -1,0 +1,10 @@
+Pour installer:
+- Copier 'Win32Memez.exe' dans 'C:\Users\Alex\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup'
+- Redémarrer l'ordinateur
+
+Pour déinstaller:
+- Démarrer l'ordinateur en mode sans écheque
+- Supprimer 'Win32Memez.exe'
+- Redémarrer normalement
+
+Copyright What's The Geek 2017
